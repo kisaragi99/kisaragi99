@@ -3,9 +3,9 @@
 
 ### Frontend Developer / living in Moscow
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kisaragi99&show_icons=true&theme=vue)](https://github.com/kisaragi99)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kisaragi99&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kisaragi99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisaragi99&show_icons=true&theme=vue)](https://github.com/kisaragi99)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisaragi99&layout=compact&show_icons=true&theme=cobalt)](https://github.com/kisaragi99)
 
 ![Profile views](https://gpvc.arturio.dev/kisaragi99)
 
