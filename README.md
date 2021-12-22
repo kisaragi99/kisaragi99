@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+
+### Frontend Developer / living in Moscow
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kisaragi99&show_icons=true&theme=vue)](https://github.com/kisaragi99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisaragi99&show_icons=true&theme=vue)](https://github.com/kisaragi99)
+
+![Profile views](https://gpvc.arturio.dev/kisaragi99)
+
+
 <!--
-**kisaragi99/kisaragi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZhenyaDope/zhenyadope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
